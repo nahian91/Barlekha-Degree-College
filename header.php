@@ -30,7 +30,7 @@
                 <div class="col-md-6 col-sm-12">
                     <div class="header-left">
                         <a href="mailto:womensmodelcollege@gmail.com"><i class="fa fa-envelope"></i> womensmodelcollege@gmail.com</a>
-                        <a href="tel:+8801712194615"><i class="fa fa-phone-alt"></i> +8801712194615</a>
+                        <a href="tel:+8801720229224"><i class="fa fa-phone-alt"></i> +8801720229224</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 text-end">
