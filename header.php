@@ -29,17 +29,11 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <div class="header-left">
-                        <a href="mailto:womensmodelcollege@gmail.com"><i class="fa fa-envelope"></i> womensmodelcollege@gmail.com</a>
+                        <a href="mailto:barlekhagovtdegreecollege@gmail.com"><i class="fa fa-envelope"></i> barlekhagovtdegreecollege@gmail.com</a>
                         <a href="tel:+8801720229224"><i class="fa fa-phone-alt"></i> +8801720229224</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 text-end">
-					<?php
-						wp_nav_menu(array(
-							'theme_location' => 'header-menu',
-							'menu_class' => 'header-menu'
-						));
-					?>
                 </div>
             </div>
         </div>
@@ -54,7 +48,7 @@
                     <div class="logo">
                         <a href="<?php echo site_url();?>">
                             <img src="<?php echo get_template_directory_uri();?>/assets/img/logo.png" alt="">
-							<span>Sylhet Women's Model College</span>
+							<span>Barlekha Degree College</span>
                         </a>
                     </div>
                 </div>
