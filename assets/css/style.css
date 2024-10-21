@@ -33,9 +33,9 @@ CSS INDEX
 */
 
 /* 01. Reset CSS */
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
 body {
-  font-family: "Manrope", sans-serif;
+  font-family: "Hind Siliguri", sans-serif;
   background-color: #f4f4f4;
   overflow-x: hidden;
 }
@@ -50,8 +50,8 @@ ul {
 }
 p {
   margin-bottom: 0;
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 17px;
+  line-height: 27px;
 }
 .pt-100 {
   padding-top: 100px;
@@ -1070,7 +1070,7 @@ p {
 }
 .single-why {
   box-shadow: 0 15px 40px #ededed;
-  padding: 30px;
+  padding: 20px;
   border: 1px solid #ddd;
   background-color: #fff;
 }

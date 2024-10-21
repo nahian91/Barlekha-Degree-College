@@ -17,7 +17,7 @@
             <div class="col-md-4">
                 <div class="single-footer text-center">
                     <img src="<?php echo get_template_directory_uri();?>/assets/img/logo.png" alt="">
-                    <p>It is a Non-government College. This institute's EIIN number is 129580. This institute is located in Gramtola, Maulvibazar, Sylhet Division. It's geographical area is Plain Land. It offers classes up to Degree (pass) level. Please refer to the table below for information on the EIIN, location, contact number, MPO status, and additional details.</p>
+                    <p>বর্তমানে এই কলেজে পাঠগ্রহণ করছে ২৮২২ জন শিক্ষার্থী।সুযোগ্য প্রশাসনিক নেতৃত্বে শিক্ষক, অভিভাবক এবং শিক্ষার্থীদেরকে যথাযথভাবে মোটিভেশন করতে সক্ষম হলে 'বড়লেখা সরকারি ডিগ্রি কলেজ ' শিক্ষাক্ষেত্রে আরো সুনাম বয়ে নিয়ে আসবে বলে আমাদের প্রতীতি।</p>
                     <a href=""><i class="fab fa-facebook-f"></i></a>
                     <a href=""><i class="fab fa-twitter"></i></a>
                     <a href=""><i class="fab fa-instagram"></i></a>
@@ -49,10 +49,13 @@
                 <div class="single-footer contact">
                     <h4>get in touch</h4>
                     <ul>
-                        <li><i class="fas fa-map-marker-alt"></i> Gramtola, Maulvibazar, Sylhet </li>
-                        <li><i class="far fa-envelope"></i> womensmodelcollege@gmail.com</li>
-                        <li><i class="fas fa-mobile-alt"></i> +8801720229224</li>
-                        <li><i class="fas fa-globe-europe"></i> www.bdcsyl.com</li>
+                        <li><i class="fas fa-map-marker-alt"></i> Village: Gramtola, <br> Word No: 02 <br>
+                        Barlekha Pourosova,<br> Upozela: Barlekha, <br> Dist: Moulvibazar. </li>
+                        <li><i class="far fa-envelope"></i> barlekhagovtcollege @gmail.com
+                        </li>
+                        <li><i class="fas fa-mobile-alt"></i> +8801720-229224
+                        </li>
+                        <li><i class="fas fa-globe-europe"></i> barlekhagovtdegreecollege.com</li>
                     </ul>
                 </div>
             </div>

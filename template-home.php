@@ -1,6 +1,6 @@
 <?php
    /*
-   Template Name: Home Page
+   Template Name: Home
    */
    get_header();
    ?>
@@ -68,7 +68,7 @@
          </div>
          <div class="col-xl-3">
             <div class="sidebar">
-               <h4>bdc কেন পছন্দের?</h4>
+               <h4>কেনো ভর্তি হবেন?</h4>
                <ul>
                   <li><i class="fas fa-long-arrow-alt-right"></i> মাল্টিমিডিয়া প্রজেক্টরের মাধ্যমে পাঠদান</li>
                   <li><i class="fas fa-long-arrow-alt-right"></i> সি.সি ক্যামেরার মাধ্যমে সার্বক্ষণিক নিরাপত্তা</li>
@@ -79,7 +79,7 @@
                </ul>
             </div>
             <div class="sidebar">
-               <h4>Notice Borad</h4>
+               <h4>নোটিশ বোর্ড</h4>
                <ul>
                   <?php
                      $args = array(  
@@ -104,7 +104,7 @@
                </ul>
             </div>
             <div class="sidebar">
-               <h4>Quick Links</h4>
+               <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
                <ul>
                   <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Notice Borad</a></li>
                   <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Hostel</a></li>
@@ -157,8 +157,7 @@
       <div class="row">
          <div class="col-xl-8 mx-auto text-center">
             <div class="section-title">
-               <h4>Why Choose Us</h4>
-               <h2>Why study with us?</h2>
+               <h2>এখানে কেন পড়ালেখা করবেন?</h2>
             </div>
          </div>
       </div>
@@ -166,29 +165,29 @@
          <div class="col-md-3">
             <div class="single-why">
                <i class="fas fa-play-circle"></i>
-               <h4>Highly Equipped Labs</h4>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt officia soluta modi ad corrupti recusandae!</p>
+               <h4>উন্নত ল্যাবরেটরি</h4>
+               <p>উন্নত প্রযুক্তিসম্পন্ন ল্যাবগুলো আধুনিক যন্ত্রপাতি ও সুরক্ষা ব্যবস্থার মাধ্যমে গবেষণা ও উদ্ভাবনের জন্য সেরা পরিবেশ প্রদান করে। এসব ল্যাবে সঠিক পরীক্ষা পরিচালনা সম্ভব হয়, যা জীববিজ্ঞান, প্রকৌশল ও চিকিৎসা ক্ষেত্রে অগ্রগতি আনে। এর ফলে নতুন প্রযুক্তি ও চিকিৎসার উন্নয়ন ঘটানো সম্ভব এবং সুযোগ সৃষ্টি হয়।</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-why">
                <i class="fas fa-play-circle"></i>
-               <h4>Curricular Activities</h4>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt officia soluta modi ad corrupti recusandae!</p>
+               <h4>পাঠ্যক্রমমূলক কার্যক্রম</h4>
+               <p>পাঠ্যক্রমমূলক কার্যক্রম শিক্ষার্থীদের শিক্ষার মূল ধারার অংশ। এর মাধ্যমে শিক্ষার্থীরা পাঠ্যবইয়ের বাইরেও নানান দক্ষতা অর্জন করতে পারে, যেমন নেতৃত্ব, টিমওয়ার্ক ও সমাধানমূলক চিন্তা। এসব কার্যক্রম একাডেমিক শিক্ষার সঙ্গে সামঞ্জস্য রেখে ব্যক্তিগত ও সামাজিক উন্নয়নে সহায়ক ভূমিকা পালন করে এবং শিক্ষার্থীদের বহুমুখী বিকাশ নিশ্চিত করে।</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-why">
                <i class="fas fa-play-circle"></i>
-               <h4>Rich Library</h4>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt officia soluta modi ad corrupti recusandae!</p>
+               <h4>সমৃদ্ধ গ্রন্থাগার</h4>
+               <p>সমৃদ্ধ গ্রন্থাগার মানেই জ্ঞান ও তথ্যের অফুরন্ত ভাণ্ডার। এখানে বিভিন্ন বিষয়ের বই, গবেষণা পত্র, ম্যাগাজিন, এবং ডিজিটাল উপকরণ পাওয়া যায়। শিক্ষার্থীরা এই গ্রন্থাগার থেকে প্রয়োজনীয় জ্ঞান আহরণ করতে পারে, যা তাদের শিক্ষাগত উন্নতি এবং গবেষণার জন্য অপরিহার্য। এটি চিন্তার পরিসর বাড়াতে সহায়ক ভূমিকা রাখে।</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-why">
                <i class="fas fa-play-circle"></i>
-               <h4>Qualified Teachers</h4>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt officia soluta modi ad corrupti recusandae!</p>
+               <h4>যোগ্য শিক্ষকগণ</h4>
+               <p>যোগ্য শিক্ষকগণ শিক্ষার্থীদের শিক্ষার জন্য অপরিহার্য। তারা তাদের বিষয় সম্পর্কে গভীর জ্ঞান রাখেন এবং শিক্ষাদানে দক্ষ। তাদের পেশাদারিত্ব, অভিজ্ঞতা এবং উদ্ভাবনী পদ্ধতি শিক্ষার্থীদের শিখতে উৎসাহিত করে। একজন যোগ্য শিক্ষক শুধু পাঠ্যবিষয়েই নয়, বরং ছাত্রদের মানসিক ও সামাজিক বিকাশেও গুরুত্বপূর্ণ ভূমিকা পালন করেন।</p>
             </div>
          </div>
       </div>

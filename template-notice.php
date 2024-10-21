@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Notice Page
+Template Name: Notice
 */
 get_header();
 ?>

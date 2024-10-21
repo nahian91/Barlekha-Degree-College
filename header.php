@@ -29,8 +29,8 @@
             <div class="row">
                 <div class="col-md-6 col-sm-12">
                     <div class="header-left">
-                        <a href="mailto:barlekhagovtdegreecollege@gmail.com"><i class="fa fa-envelope"></i> barlekhagovtdegreecollege@gmail.com</a>
-                        <a href="tel:+8801720229224"><i class="fa fa-phone-alt"></i> +8801720229224</a>
+                        <a href="mailto:barlekhagovtcollege@gmail.com"><i class="fa fa-envelope"></i> barlekhagovtcollege@gmail.com</a>
+                        <a href="tel:+8801720229224"><i class="fa fa-phone-alt"></i> +8801720-229224</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-12 text-end">
