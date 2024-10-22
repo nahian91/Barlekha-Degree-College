@@ -48,7 +48,7 @@
                     <div class="logo">
                         <a href="<?php echo site_url();?>">
                             <img src="<?php echo get_template_directory_uri();?>/assets/img/logo.png" alt="">
-							<span>Barlekha Degree College</span>
+							<span>Barlekha Govt. Degree College</span>
                         </a>
                     </div>
                 </div>

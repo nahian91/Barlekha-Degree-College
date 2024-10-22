@@ -106,11 +106,11 @@
             <div class="sidebar">
                <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
                <ul>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> নোটিশ বোর্ড</a></li>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Hostel</a></li>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Teachers</a></li>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Career</a></li>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Contact</a></li>
+                  <li><a href="https://barlekhagovtdegreecollege.com/about-us/"><i class="fas fa-long-arrow-alt-right"></i> আমাদের সম্পর্কে</a></li>
+                  <li><a href="https://barlekhagovtdegreecollege.com/departments/"><i class="fas fa-long-arrow-alt-right"></i> বিভাগসমূহ</a></li>
+                  <li><a href="https://barlekhagovtdegreecollege.com/teacher/"><i class="fas fa-long-arrow-alt-right"></i> শিক্ষকগন</a></li>
+                  <li><a href="https://barlekhagovtdegreecollege.com/events/"><i class="fas fa-long-arrow-alt-right"></i> ইভেন্টস</a></li>
+                  <li><a href="https://barlekhagovtdegreecollege.com/notices/"><i class="fas fa-long-arrow-alt-right"></i> নোটিশ</a></li>
                </ul>
             </div>
          </div>
@@ -198,8 +198,8 @@
       <div class="row">
          <div class="col-xl-8 mx-auto">
             <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"><i class="fas fa-play-circle"></i></a>					
-            <h4>Watch Campus Life Video Tour</h4>
-            <p>we believe everyone should have the to create progress through technology and develop the skills of tomorrow. assessments, learning</p>
+            <h4>ক্যাম্পাস লাইফ ভিডিও ট্যুর দেখুন</h4>
+            <p>আমরা বিশ্বাস করি প্রত্যেকেরই প্রযুক্তির মাধ্যমে অগ্রগতি তৈরি করা এবং আগামীকালের দক্ষতা বিকাশ করা উচিত। মূল্যায়ন, শেখার.</p>
          </div>
       </div>
    </div>
@@ -209,8 +209,8 @@
       <div class="row align-items-center">
          <div class="col-md-4">
             <div class="title-event">
-               <h4>Upcoming Events</h4>
-               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde quae harum dolorum eos deserunt ducimus enim totam delectus dignissimos quibusdam.</p>
+               <h4>আসন্ন ইভেন্ট</h4>
+               <p>ইভেন্টের মূল উদ্দেশ্য হলো অংশগ্রহণকারীদের জ্ঞান বৃদ্ধি, বিনোদন প্রদান, বা মিথস্ক্রিয়া তৈরি করা। আগাম ইভেন্ট ঘোষণা করার মাধ্যমে আগ্রহী ব্যক্তিরা সহজেই অংশগ্রহণের প্রস্তুতি নিতে পারেন।</p>
             </div>
          </div>
          <div class="col-md-8">
@@ -251,13 +251,13 @@
       </div>
    </div>
 </section>
-<section class="testimonilas-area black-bg pt-100 pb-100" id="testimonials wow fadeInUp2 animated" data-wow-delay='.1s'>
+<section class="testimonilas-area pt-100 pb-100" id="testimonials wow fadeInUp2 animated" data-wow-delay='.1s'>
    <div class="container">
       <div class="row">
          <div class="col-xl-8 mx-auto text-center">
             <div class="section-title">
-               <h4>review from guardians</h4>
-               <h2>what guardians say</h2>
+               <h4>অভিভাবকদের কাছ থেকে পর্যালোচনা</h4>
+               <h2>অভিভাবকরা কি বলেন?</h2>
             </div>
          </div>
       </div>
@@ -293,50 +293,6 @@
                     ?>
             </div>
          </div>
-      </div>
-   </div>
-</section>
-<section class="blog-area pt-100 pb-100" id="blog wow fadeInUp2 animated" data-wow-delay='.1s'>
-   <div class="container">
-      <div class="row">
-         <div class="col-xl-8 mx-auto text-center">
-            <div class="section-title">
-               <h4>review from clients</h4>
-               <h2>latest news</h2>
-            </div>
-         </div>
-      </div>
-      <div class="row">
-      <?php
-                        $args = array(  
-                            'post_type' => 'post',
-                            'post_status' => 'publish',
-                        );
-
-                        $loop = new WP_Query( $args ); 
-                            
-                        while ( $loop->have_posts() ) : $loop->the_post(); 
-                    ?>
-                    
-                    <div class="col-xl-4">
-            <div class="single-blog">
-               <div class="blog-img" style="background-image:url('<?php the_post_thumbnail_url();?>')">
-                  
-               </div>
-               <div class="blog-content">
-                  <h4><?php the_title();?></h4>
-                  <?php the_content();?>
-                  <a href="<?php the_permalink();?>">read more <i class="fas fa-long-arrow-alt-right"></i></a>
-               </div>
-            </div>
-         </div>
-                            <?php
-                        endwhile;
-
-                        wp_reset_postdata(); 
-                    ?>
-
-         
       </div>
    </div>
 </section>

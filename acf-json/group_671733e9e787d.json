@@ -4,8 +4,33 @@
     "fields": [
         {
             "key": "field_671733ead3423",
-            "label": "",
-            "name": "",
+            "label": "Client Image",
+            "name": "client_image",
+            "aria-label": "",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": "",
+            "preview_size": "medium"
+        },
+        {
+            "key": "field_6718163f5bf34",
+            "label": "Client Designation",
+            "name": "client_designation",
             "aria-label": "",
             "type": "text",
             "instructions": "",
@@ -18,10 +43,29 @@
             },
             "default_value": "",
             "maxlength": "",
-            "allow_in_bindings": 0,
             "placeholder": "",
             "prepend": "",
             "append": ""
+        },
+        {
+            "key": "field_67181659c8311",
+            "label": "Client Speech",
+            "name": "client_speech",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": "",
+            "placeholder": "",
+            "new_lines": ""
         }
     ],
     "location": [
@@ -42,5 +86,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1729573874
+    "modified": 1729631861
 }

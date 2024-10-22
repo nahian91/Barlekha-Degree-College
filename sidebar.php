@@ -45,11 +45,11 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 <div class="sidebar">
     <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
 		<ul>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> নোটিশ বোর্ড</a></li>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Hostel</a></li>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Teachers</a></li>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Career</a></li>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Contact</a></li>
+			<li><a href="https://barlekhagovtdegreecollege.com/about-us/"><i class="fas fa-long-arrow-alt-right"></i> আমাদের সম্পর্কে</a></li>
+			<li><a href="https://barlekhagovtdegreecollege.com/departments/"><i class="fas fa-long-arrow-alt-right"></i> বিভাগসমূহ</a></li>
+			<li><a href="https://barlekhagovtdegreecollege.com/teacher/"><i class="fas fa-long-arrow-alt-right"></i> শিক্ষকগন</a></li>
+			<li><a href="https://barlekhagovtdegreecollege.com/events/"><i class="fas fa-long-arrow-alt-right"></i> ইভেন্টস</a></li>
+			<li><a href="https://barlekhagovtdegreecollege.com/notices/"><i class="fas fa-long-arrow-alt-right"></i> নোটিশ</a></li>
 		</ul>
 	</div>
 	<!-- Single Sidebar End Here -->
