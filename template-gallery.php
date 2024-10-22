@@ -26,14 +26,7 @@ get_header();
         <?php
 
 $args = array(
-    'post_type' => 'gallerys',
-    'tax_query' => array(             
-         array(
-            'taxonomy' => 'category',
-            'field' => 'slug',
-            'terms' => 'general'
-        ),
-     )
+    'post_type' => 'gallerys'
   );
   
   $query = new WP_Query($args);

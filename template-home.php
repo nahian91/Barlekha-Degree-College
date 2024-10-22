@@ -3,7 +3,7 @@
    Template Name: Home
    */
    get_header();
-   ?>
+?>
 <!-- Slider Area Start -->
 <section class="slider-area" id="home">
    <div class="container">

@@ -24,7 +24,7 @@
                     <a href=""><i class="fab fa-linkedin-in"></i></a>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2 offset-md-1">
                 <div class="single-footer">
                     <h4>quick links</h4>
                     <ul>
