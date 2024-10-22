@@ -1566,6 +1566,7 @@ p {
   border: 1px solid #ddd;
   padding: 40px;
   background-color: #fff;
+  margin-bottom: 30px;
 }
 .single-member img {
 	max-width: 80px;

@@ -51,7 +51,6 @@ if ( ! function_exists( 'bdc_setup' ) ) :
 		register_nav_menus(
 			array(
 				'main-menu' => esc_html__( 'Primary Menu', 'bdc' ),
-				'header-menu' => esc_html__( 'Header Menu', 'bdc' ),
 			)
 		);
 
@@ -193,7 +192,7 @@ function bdc_custom_posts() {
         ),
         'public' => true,
         'show_ui' => true,
-        'supports' => array('title', 'custom-fields'),
+        'supports' => array('title', 'custom-fields', 'page-attributes'),
         'show_in_rest' => false,
         'menu_icon' => 'dashicons-calculator',		
 		'taxonomies' => array( 'category'),

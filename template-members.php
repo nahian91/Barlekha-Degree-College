@@ -27,6 +27,7 @@ get_header();
             $args = array(
                 'post_type' => 'teachers', // Replace with your custom post type
                 'posts_per_page' => -1, // Number of posts to display
+                'order' => 'ASC'
             );
 
             // The Query
