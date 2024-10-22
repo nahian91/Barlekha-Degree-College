@@ -29,34 +29,24 @@ get_header();
                 <div class="row">
                     <div class="col-md-6">
                         <div class="career">
-                            <h4 class="page-title">ডিগ্রি পাস:
-                            </h4>
+                            <h4 class="page-title">ডিগ্রি পাস:</h4>
                             <div class="career-list">
                                 <ul>
-                                    <li><span><i class="far fa-bookmark"></i> Deadline : 12 January 2021</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Vacancy : 5</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Job Status : Full Time</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Salary : Negotiable</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Job Location: Sylhet</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Experience: 1 to 2 Year</span></li>
-                                    <li><a href="">View Details</a></li>
+                                    <li><span><i class="far fa-bookmark"></i> বি এ</span></li>
+                                    <li><span><i class="far fa-bookmark"></i> বি এস এস</span></li>
+                                    <li><span><i class="far fa-bookmark"></i> বিবিএস</span></li>
                                 </ul>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="career">
-                            <h4 class="page-title">এইচ এস সি:
-                            </h4>
+                            <h4 class="page-title">এইচ এস সি:</h4>
                             <div class="career-list">
                                 <ul>
-                                    <li><span><i class="far fa-bookmark"></i> Deadline : 12 January 2021</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Vacancy : 5</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Job Status : Full Time</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Salary : Negotiable</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Job Location: Sylhet</span></li>
-                                    <li><span><i class="far fa-bookmark"></i> Experience: 1 to 2 Year</span></li>
-                                    <li><a href="">View Details</a></li>
+                                    <li><span><i class="far fa-bookmark"></i> বিজ্ঞান</span></li>
+                                    <li><span><i class="far fa-bookmark"></i> ব্যবসায় শিক্ষা</span></li>
+                                    <li><span><i class="far fa-bookmark"></i> মানবিক</span></li>
                                 </ul>
                             </div>
                         </div>

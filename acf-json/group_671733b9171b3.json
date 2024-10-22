@@ -3,9 +3,9 @@
     "title": "Teachers",
     "fields": [
         {
-            "key": "field_671733b93f971",
-            "label": "",
-            "name": "",
+            "key": "field_6717e8f6fa9b0",
+            "label": "Teacher Designation",
+            "name": "teacher_designation",
             "aria-label": "",
             "type": "text",
             "instructions": "",
@@ -18,10 +18,54 @@
             },
             "default_value": "",
             "maxlength": "",
-            "allow_in_bindings": 0,
             "placeholder": "",
             "prepend": "",
             "append": ""
+        },
+        {
+            "key": "field_6717e900fa9b1",
+            "label": "Teacher Subject",
+            "name": "teacher_subject",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_6717e909fa9b2",
+            "label": "Teacher Image",
+            "name": "teacher_image",
+            "aria-label": "",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": "",
+            "preview_size": "medium"
         }
     ],
     "location": [
@@ -42,5 +86,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1729573843
+    "modified": 1729620922
 }
