@@ -198,7 +198,7 @@ p {
 }
 .breadcumb-area h2 {
   text-transform: capitalize;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 40px;
   margin-bottom: 0;
 }
@@ -273,44 +273,31 @@ p {
 /* Contact CSS */
 
 .single-contact {
-  text-align: center;
-  border: 1px solid #ddd;
-  padding: 40px 10px;
-  position: relative;
-  /* margin-top: 30px; */
-  background-color: #fff !important;
-}
-.single-contact.item1 {
-  background-color: #e5f8f6;
-}
-.single-contact.item1 i {
-  background-color: #01bca7;
-}
-.single-contact.item2 {
-  background-color: #fff0ea;
-}
-.single-contact.item2 i {
-  background-color: #ff6d34;
-}
-.single-contact.item3 {
-  background-color: #f3faf2;
-}
-.single-contact.item3 i {
-  background-color: #8dd17e;
+	border: 1px solid #ddd;
+	padding: 20px 80px;
+	position: relative;
+	margin: 20px 0;
+	background-color: #fff !important;
 }
 .single-contact i {
-  width: 60px;
-  height: 60px;
-  line-height: 60px;
-  color: #fff;
-  font-size: 30px;
-  border-radius: 50%;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 50%;
+	background-color: #00aeed;
+	position: absolute;
+	left: 25px;
+	top: 50%;
+	transform: translateY(-50%);
+  text-align: center;
 }
 .single-contact h4 {
   text-transform: uppercase;
   margin-top: 16px;
   font-size: 24px;
-  font-weight: 800;
+  font-weight: 600;
 }
 .single-contact p {
   font-weight: 500;
@@ -336,7 +323,7 @@ p {
   margin: 0;
 }
 .contact-form input[type="submit"] {
-  background-color: #111d5e;
+  background-color: #00aeed;
   color: #fff;
   text-transform: uppercase;
   font-weight: 700;
@@ -351,7 +338,6 @@ p {
 }
 .map {
   border-top: 3px solid #eee;
-  margin-bottom: -150px;
 }
 
 /* Footer */
@@ -367,7 +353,7 @@ p {
   content: "";
   width: 100%;
   height: 100%;
-  background-color: #111d5e;
+  background-color: #333;
   top: 0;
   left: 0;
   opacity: 0.95;
@@ -394,7 +380,7 @@ p {
   font-size: 24px;
   position: relative;
   margin-bottom: 36px;
-  font-weight: 700;
+  font-weight: 500;
 }
 .single-footer h4:before {
   position: absolute;
@@ -518,7 +504,7 @@ p {
   border-radius: 5px;
 }
 .single-teacher:hover {
-  background-color: #111d5e;
+  background-color: #00aeed;
   color: #fff;
 }
 .single-teacher img {
@@ -562,7 +548,7 @@ p {
   position: absolute;
   width: 30px;
   height: 2px;
-  background-color: #111d5e;
+  background-color: #00aeed;
   left: 0;
   bottom: 0;
 }
@@ -581,7 +567,7 @@ p {
   transition: 0.3s;
 }
 .sidebar ul li a:hover {
-  color: #111d5e;
+  color: #00aeed;
 }
 .map iframe {
   width: 100%;
@@ -649,9 +635,9 @@ p {
   transition: 0.3s;
 }
 .single-counter h4 {
-  font-size: 45px;
-  font-weight: 900;
-  margin-bottom: 5px;
+	font-size: 30px;
+	font-weight: 700;
+	margin: 15px 0;
 }
 .single-counter p {
   text-transform: capitalize;
@@ -741,7 +727,7 @@ p {
   height: 100%;
   right: 0;
   top: 0;
-  background-color: #111d5e;
+  background-color: #00aeed;
   opacity: 0.8;
 }
 .features-2::after {
@@ -1253,15 +1239,15 @@ p {
   font-weight: 500;
 }
 .career-list ul li i {
-  color: #111d5e;
+  color: #00aeed;
   margin-right: 5px;
 }
 .career-list ul li a {
-  color: #111d5e;
+  color: #00aeed;
   font-weight: 700;
   margin-top: 10px;
   display: inline-block;
-  border-bottom: 2px solid #111d5e;
+  border-bottom: 2px solid #00aeed;
 }
 
 .hostel-img img {
@@ -1291,7 +1277,7 @@ p {
 }
 
 .page-title {
-  color: #111d5e;
+  color: #00aeed;
   text-transform: capitalize;
   font-weight: 700;
   font-size: 30px;
@@ -1313,7 +1299,7 @@ p {
   content: "";
   width: 60px;
   height: 3px;
-  background-color: #111d5e;
+  background-color: #00aeed;
   bottom: 0;
 }
 .single-admission p {

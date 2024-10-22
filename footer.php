@@ -26,7 +26,7 @@
             </div>
             <div class="col-md-2 offset-md-1">
                 <div class="single-footer">
-                    <h4>quick links</h4>
+                    <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
                     <ul>
                         <li><a href=""><i class="fas fa-angle-double-right"></i> Admission</a></li>
                         <li><a href=""><i class="fas fa-angle-double-right"></i> Notice Board</a></li>
@@ -38,7 +38,7 @@
             </div>
             <div class="col-md-2">
                 <div class="single-footer">
-                    <h4>useful links</h4>
+                    <h4>অন্যান্য</h4>
                     <ul>
                         <li><a href=""><i class="fas fa-angle-double-right"></i> Privacy Policy</a></li>
                         <li><a href=""><i class="fas fa-angle-double-right"></i> Terms & Conditions</a></li>
@@ -47,11 +47,11 @@
             </div>
             <div class="col-md-3">
                 <div class="single-footer contact">
-                    <h4>get in touch</h4>
+                    <h4>যোগাযোগ করুন</h4> 
                     <ul>
                         <li><i class="fas fa-map-marker-alt"></i> Village: Gramtola, <br> Word No: 02 <br>
                         Barlekha Pourosova,<br> Upozela: Barlekha, <br> Dist: Moulvibazar. </li>
-                        <li><i class="far fa-envelope"></i> barlekhagovtcollege @gmail.com
+                        <li><i class="far fa-envelope"></i> barlekhagovtcollege@gmail.com
                         </li>
                         <li><i class="fas fa-mobile-alt"></i> +8801720-229224
                         </li>

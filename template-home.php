@@ -106,7 +106,7 @@
             <div class="sidebar">
                <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
                <ul>
-                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Notice Borad</a></li>
+                  <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> নোটিশ বোর্ড</a></li>
                   <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Hostel</a></li>
                   <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Teachers</a></li>
                   <li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Career</a></li>
@@ -124,29 +124,29 @@
          <div class="col-md-3">
             <div class="single-counter counter1 wow fadeInUp2 animated" data-wow-delay='.1s'>
                <i class="fas fa-users"></i>
-               <h4><span class="counter">5</span> K+</h4>
-               <p>students</p>
+               <h4><span class="counter">5</span> হাজার+</h4>
+               <p>শিক্ষার্থী</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-counter counter2 wow fadeInUp2 animated" data-wow-delay='.2s'>
                <i class="fas fa-chalkboard-teacher"></i>
-               <h4><span class="counter">50</span></h4>
-               <p>teachers</p>
+               <h4><span class="counter">50</span>+</h4>
+               <p>শিক্ষক</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-counter counter3 wow fadeInUp2 animated" data-wow-delay='.3s'>
                <i class="fas fa-people-carry"></i>
                <h4><span class="counter">20</span></h4>
-               <p>staffs</p>
+               <p>স্টাফ</p>
             </div>
          </div>
          <div class="col-md-3">
             <div class="single-counter counter4 wow fadeInUp2 animated" data-wow-delay='.4s'>
                <i class="fas fa-user-graduate"></i>
-               <h4><span class="counter">7</span> K+</h4>
-               <p>graduate</p>
+               <h4><span class="counter">7</span></h4>
+               <p>বিভাগ</p>
             </div>
          </div>
       </div>

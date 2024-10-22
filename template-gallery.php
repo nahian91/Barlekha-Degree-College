@@ -9,10 +9,10 @@ get_header();
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2><?php the_title();?></h2>
+                <h2>গ্যালারী</h2>
                 <ul>
-                    <li><a href="<?php site_url(); ?>">home</a></li>
-                    <li><?php the_title();?></li>
+                    <li><a href="<?php site_url(); ?>">হোম</a></li>
+                    <li>গ্যালারী</li>
                 </ul>
             </div>
         </div>

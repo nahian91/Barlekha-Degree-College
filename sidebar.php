@@ -15,7 +15,7 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 <aside id="secondary" class="widget-area">
 	<!-- Single Sidebar Start Here -->
 <div class="sidebar">
-    <h4>Notice Borad</h4>
+    <h4>নোটিশ বোর্ড</h4>
     <ul>
         <?php
 		$args = array(  
@@ -43,9 +43,9 @@ if ( ! is_active_sidebar( 'sidebar-1' ) ) {
 
 <!-- Single Sidebar Start Here -->
 <div class="sidebar">
-    <h4>Quick Links</h4>
+    <h4>গুরুত্বপূর্ণ লিঙ্ক</h4>
 		<ul>
-			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Notice Borad</a></li>
+			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> নোটিশ বোর্ড</a></li>
 			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Hostel</a></li>
 			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Teachers</a></li>
 			<li><a href=""><i class="fas fa-long-arrow-alt-right"></i> Career</a></li>
